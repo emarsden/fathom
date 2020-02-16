@@ -233,12 +233,6 @@
 			"revisionTime": "2018-11-09T09:53:04Z"
 		},
 		{
-			"checksumSHA1": "Byaa390AhImHSUlSXz14tOCRBHo=",
-			"path": "github.com/mssola/user_agent",
-			"revision": "d7bd3b07ee86d981b0fb75b59ea68e09c51fa1b6",
-			"revisionTime": "2018-06-08T08:16:48Z"
-		},
-		{
 			"checksumSHA1": "ljd3FhYRJ91cLZz3wsH9BQQ2JbA=",
 			"path": "github.com/pkg/errors",
 			"revision": "816c9085562cd7ee03e7f8188a1cfd942858cded",

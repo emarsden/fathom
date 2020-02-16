@@ -90,7 +90,7 @@ img-src: yourfathom.com;
 ```
 
 ## Donation
-If you're self-hosting Fathom Analytics Lite and want to support it's development, you can:
+If you're self-hosting Fathom Analytics Lite and want to support its development, you can:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LJ5WZVA9ER9GJ)
 
